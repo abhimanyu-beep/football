@@ -1,0 +1,33 @@
+h1{
+    color:black
+
+}
+
+
+
+
+.origamis { 
+
+    border-radius: 20px;
+    background-color:#ffffff;
+    padding: 30px;
+    margin: 20px;
+    width: 300px;
+    font-family: fantasy;
+    
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+    
+    
+}
+
+.grid img{
+    border: 2px solid #000000;
+    border-radius: 10px;
+}
+
+
